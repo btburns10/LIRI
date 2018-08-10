@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/btburns10/LIRI#readme",
   "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.87.0",
     "twitter": "^1.7.1"
   }
 }
