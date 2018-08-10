@@ -1,7 +1,7 @@
 {
   "name": "LIRI",
   "version": "1.0.0",
-  "description": "",
+  "description": "LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/btburns10/LIRI.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Brendan Burns",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/btburns10/LIRI/issues"
